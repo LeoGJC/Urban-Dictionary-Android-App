@@ -54,8 +54,8 @@
 
             <TextView
                 android:id="@+id/result"
-                android:layout_width="323dp"
-                android:layout_height="249dp"
+                android:layout_width="304dp"
+                android:layout_height="200dp"
                 android:layout_marginLeft="5dp"
                 android:ems="3"
                 android:inputType="number" />
