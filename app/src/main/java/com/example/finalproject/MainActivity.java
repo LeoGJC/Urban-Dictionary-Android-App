@@ -44,15 +44,6 @@ public class MainActivity extends AppCompatActivity {
                         "https://mashape-community-urban-dictionary.p.rapidapi.com/define?term="
                                 + input;
                 JsonGetter(toUrl);
-                //final TextView define = findViewById(R.id.result);
-                //JsonConverter newJson = new JsonConverter();
-                //Log.i("cs`125", define.getText().toString());
-//                String[] toSet = newJson.converter(define.getText().toString());
-  //              String toReturn = "";
-    //            for (int i = 0; i < toSet.length; i ++) {
-      //              toReturn += toSet[i];
-        //        }
-          //      define.setText(toReturn);
             }
         });
     }
